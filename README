@@ -1,0 +1,4 @@
+For each form of the antibiotic there is: 
+- a parameter file with the force field interactions (.inp)
+- a file with the atomic coordinates (.pdb)
+- a file with the topology data (.psf) 
